@@ -61,7 +61,7 @@
 				84457FD221C448DD00750BF8 /* Controllers */,
 				84457FD321C448F600750BF8 /* View */,
 				84457FC421C3EEEA00750BF8 /* Assets.xcassets */,
-				84457FD421C452FF00750BF8 /* Supporting Files */,
+				84457FC921C3EEEA00750BF8 /* Info.plist */,
 			);
 			path = Todoey;
 			sourceTree = "<group>";
@@ -89,14 +89,6 @@
 				84457FC121C3EEE900750BF8 /* Main.storyboard */,
 			);
 			path = View;
-			sourceTree = "<group>";
-		};
-		84457FD421C452FF00750BF8 /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				84457FC921C3EEEA00750BF8 /* Info.plist */,
-			);
-			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
