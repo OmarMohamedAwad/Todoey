@@ -88,7 +88,8 @@ class CategoryViewController: UITableViewController {
         
         do {
            categoryArray = try context.fetch(request)
-        }catch {
+        }
+        catch {
             print("Cann't fetch data \(error)")
         }
         
